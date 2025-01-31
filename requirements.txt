@@ -4,3 +4,4 @@ SQLAlchemy==2.0.37
 pytest==7.4.0
 pytest-mock==3.10.0
 flask-bcrypt==1.0.1
+werkzeug==2.2.3
