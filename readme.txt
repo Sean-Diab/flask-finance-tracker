@@ -4,7 +4,8 @@ It organizes your income and expenses in a way so you can see your net gain/loss
 
 To run the app: 
 1. Make sure you are in the virtual enviornment
-2. In the root directory, executte python app.py
+2. Install requirements.txt
+3. In the root directory, execute python app.py
 
 For testing:
 In the root directory, execute python -m unittest discover
